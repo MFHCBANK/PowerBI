@@ -1,5 +1,6 @@
 # PowerBI
 Microsoft Power BI, Data Visual Dashboard
+Created @MicrosoftOpenHackDay PowerBI
 
 This is a "Learning Analytics Dashboard" showcase, use Microsoft Power BI, data source from ALBITER.
 Power BI url https://goo.gl/hSvZQr
@@ -23,4 +24,16 @@ Power BI Table：學員在12關卡的多項分項表現
 
 #06 ScoreDashBoard-02
 Power BI PivotTable：學員與12關卡的分數，交叉分析
+
+#ALBITER是一個提供給學與教的成效分析的雲端工具，主要是在企業的員工訓練，目前也被運用在創業培育的領域
+#學教資料，主要在問題的設計與批改，近期導入機器學習技術，以及豐富性的數據圖表給企業，使用者：專家與員工
+#歡迎對人工智慧在教育科技運用有興趣，也認為工人智慧與人工智慧，一樣重要的有志之士與我聯繫
+
+Ta-Ming Chang 張大明
+https://www.slideshare.net/tamingchang
+richard@abctech.pro
+育睿科技股份有限公司
+
+
+
 
