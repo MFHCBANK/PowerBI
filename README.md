@@ -3,7 +3,7 @@ Microsoft Power BI, Data Visual Dashboard
 Created @MicrosoftOpenHackDay PowerBI 2017/11/19
 
 This is a "Learning Analytics Dashboard" showcase, use Microsoft Power BI, data source from ALBITER.
-Power BI Websit url https://goo.gl/hSvZQr
+Power BI Website url https://goo.gl/hSvZQr
 
 #01 PersonalScoreDashBoard-01
 點選學員姓名，呈現12關卡的表現，每個關卡均有舞蹈問題（Performance），另外有分數，平均分數，加權分數，平均加權分數，使用的闖關時間。
