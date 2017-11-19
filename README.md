@@ -29,10 +29,10 @@ Power BI PivotTable：學員與12關卡的分數，交叉分析
 #學教資料，主要在問題的設計與批改，近期導入機器學習技術，以及豐富性的數據圖表給企業，使用者：專家與員工
 #歡迎對人工智慧在教育科技運用有興趣，也認為工人智慧與人工智慧，一樣重要的有志之士與我聯繫
 
-Ta-Ming Chang 張大明
-https://www.slideshare.net/tamingchang
-richard@abctech.pro
-育睿科技股份有限公司
+#Ta-Ming Chang 張大明
+#https://www.slideshare.net/tamingchang
+#richard@abctech.pro
+#育睿科技股份有限公司
 
 
 
